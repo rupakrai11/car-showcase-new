@@ -1,0 +1,7 @@
+{
+    "json.format.enable": true,
+    "editor.defaultFormatter": "dsznajder.es7-react-js-snippets",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
